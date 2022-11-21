@@ -1,0 +1,63 @@
+* {
+    margin: 0%;
+}
+
+
+.new-font {
+    font-family: poppins;
+    color: aqua;
+    font-weight: 400;
+
+}
+
+.paragrafos {
+    font-family: poppins;
+    color: aqua;
+    font-weight: 400;
+
+}
+
+#header {
+    background-image: url(/home/antonio/Captura\ de\ tela\ de\ 2022-11-16\ 18-45-03.png);
+    background-position: 30% 37%;
+    background-size: cover;
+    height: 550px;
+
+}
+
+#teste {
+    display: flex;
+}
+
+#header-title {
+    font-size: 50px;
+
+}
+
+#header-margin {
+    margin-left: 70px;
+
+}
+
+#header-write {
+    max-width: 45%;
+    font-size: 25px;
+    font-family: poppins;
+    font-weight: 400px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+#hability {
+    margin-left: 70px;
+}
+body {
+    background-color: rgba(0, 6, 83, 0.877);
+}
+
+.tittle-font {
+    font-family: poppins;
+    color: rgb(229, 255, 0);
+    font-weight: 1500;
+}
