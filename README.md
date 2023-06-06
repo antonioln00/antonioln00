@@ -1,2 +1,1 @@
-# trybe
-Repositório voltado para importar os exercícios da Trybe
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioln00)](https://github.com/anuraghazra/github-readme-stats)
