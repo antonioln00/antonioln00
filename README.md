@@ -4,14 +4,10 @@
 <div style="display: inline_block">
 
   ## Skills and Experience
-* 💻 HTML, CSS, JS
-* 💻 React, React Hooks, React Redux
-* 💻 Docker
-* 💻 SQL
-* 💻 Node.js
-* 💻 Sequelize
-* 💻 TypeScript
-* 💻 C#
+* 💻 C# .Net
+* 💻 Angular
+* 💻 SQL Server
+
   
 </div> 
 <br /> 
